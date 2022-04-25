@@ -1,4 +1,4 @@
-<h1 align="center"> :joystick: Jogo da Velha :game_die:	</h1> 
+<h1 align="center"> :joystick: Genius :game_die:	</h1> 
 <p align="center"> 🚀 Projeto desenvolvido durante os estudos de HTML, CSS e Javascript do bootcamp Orbi Game Developer, na Digital Inovation One. O jogo foi desenvolvido para ser semelhante ao jogo Genius, no caso desse projeto ainda não foi incluído o som e existem melhorias a serem feitas na funcionalidade do jogo. </p>
 
 <p align="center">
